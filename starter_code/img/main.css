@@ -1,0 +1,17 @@
+
+.jumbo{
+
+}
+
+.shop{
+    padding: 70px;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    background-color: #64d6c7;
+    border: #64d6c7;
+}
+.productos{
+    margin:20px;
+}
